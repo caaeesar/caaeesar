@@ -5,4 +5,4 @@
 - 📫 Reach me: melisarudeva@gmail.com
 
 ### Languages and Tools
-[![My Skills](https://skills.thijs.gg/icons?i=idea,java,mysql,regex&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=idea,java,mysql,workbench,regex&theme=light)](https://skills.thijs.gg)
