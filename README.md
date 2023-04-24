@@ -19,3 +19,7 @@
 <a href="https://softuni.bg/Certificates/Details/161773/4cc45187">
 <img width="300" src="https://user-images.githubusercontent.com/105941093/234046098-5bb71c68-f7be-48be-ac2f-bfe76d335863.png">
 </a>
+
+<a href="https://softuni.bg/Certificates/Details/168918/cd8aa8a4">
+<img width="300" src="https://user-images.githubusercontent.com/105941093/234047745-144e4b4f-f9a1-461f-9a9c-5536e8729349.png">
+</a>
