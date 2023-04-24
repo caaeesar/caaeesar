@@ -17,5 +17,5 @@
 </a>
 
 <a href="https://softuni.bg/Certificates/Details/161773/4cc45187">
-<img width="300" align="right" src="https://user-images.githubusercontent.com/105941093/234046098-5bb71c68-f7be-48be-ac2f-bfe76d335863.png">
+<img width="300" src="https://user-images.githubusercontent.com/105941093/234046098-5bb71c68-f7be-48be-ac2f-bfe76d335863.png">
 </a>
