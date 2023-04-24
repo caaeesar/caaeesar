@@ -8,4 +8,4 @@
 [![My Skills](https://skills.thijs.gg/icons?i=idea,java,mysql,regex&theme=light)](https://skills.thijs.gg)
 
 ### Certificates:
-<img src=(https://softuni.bg//Content/images/certificates/logo-white.svg) width="128"/>
+
