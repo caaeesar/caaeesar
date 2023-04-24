@@ -9,7 +9,7 @@
 
 ### Certificates:
 <a href="https://softuni.bg/certificates/details/135127/8650a326">
-<img width="300" alt="Screenshot 2023-04-24 at 18 58 59" src="https://user-images.githubusercontent.com/105941093/234052539-d697b86b-8b8b-43b3-9ccc-88fbb5a91eaf.png">
+<img width="300" src="https://user-images.githubusercontent.com/105941093/234052917-26f82cbc-b06b-4bfb-8a3d-2725e1a804c2.png">
 </a>
 
 <a href="https://softuni.bg/Certificates/Details/148685/97cc45b5">
