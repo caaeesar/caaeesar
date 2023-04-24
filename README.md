@@ -12,10 +12,10 @@
 <img width="300" align="left" src="https://user-images.githubusercontent.com/105941093/234034235-e1fa1242-442d-4cd1-a13f-c0d53628c7ff.png">
 </a>
 
-<a href="https://softuni.bg/users/profile/certificates?username=Caesar">
+<a href="https://softuni.bg/Certificates/Details/148685/97cc45b5">
 <img width="300" align="center" src="https://user-images.githubusercontent.com/105941093/234044981-c204c118-0ea7-4dbf-9e2a-e2380cf97e49.png">
 </a>
 
-<a href="https://softuni.bg/users/profile/certificates?username=Caesar">
+<a href="https://softuni.bg/Certificates/Details/161773/4cc45187">
 <img width="300" align="right" src="https://user-images.githubusercontent.com/105941093/234046098-5bb71c68-f7be-48be-ac2f-bfe76d335863.png">
 </a>
