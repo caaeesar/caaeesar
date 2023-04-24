@@ -9,11 +9,11 @@
 
 ### Certificates:
 <a href="https://softuni.bg/certificates/details/135127/8650a326">
-<img width="300" align="left" src="https://user-images.githubusercontent.com/105941093/234034235-e1fa1242-442d-4cd1-a13f-c0d53628c7ff.png">
+<img width="300" src="https://user-images.githubusercontent.com/105941093/234034235-e1fa1242-442d-4cd1-a13f-c0d53628c7ff.png">
 </a>
 
 <a href="https://softuni.bg/Certificates/Details/148685/97cc45b5">
-<img width="300" align="center" src="https://user-images.githubusercontent.com/105941093/234044981-c204c118-0ea7-4dbf-9e2a-e2380cf97e49.png">
+<img width="300" src="https://user-images.githubusercontent.com/105941093/234044981-c204c118-0ea7-4dbf-9e2a-e2380cf97e49.png">
 </a>
 
 <a href="https://softuni.bg/Certificates/Details/161773/4cc45187">
