@@ -8,6 +8,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=idea,java,mysql,regex&theme=light)](https://skills.thijs.gg)
 
 ### Certificates:
+<a href="https://softuni.bg/certificates/details/135127/8650a326"></a>
 <a href="https://softuni.bg/certificates/details/135127/8650a326">
 <img width="300" src="https://user-images.githubusercontent.com/105941093/234052917-26f82cbc-b06b-4bfb-8a3d-2725e1a804c2.png">
 </a>
