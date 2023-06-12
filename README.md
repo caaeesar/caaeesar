@@ -8,9 +8,9 @@
 [![My Skills](https://skills.thijs.gg/icons?i=idea,java,mysql,regex&theme=light)](https://skills.thijs.gg)
 
 ### Certificates:
-<a href="https://softuni.bg/certificates/details/135127/8650a326" title="Certificate">✅ Programming Basics with Java</a>
+<a href="https://softuni.bg/certificates/details/135127/8650a326" title="Certificate">☑️ Programming Basics with Java</a>
 
-<a href="https://softuni.bg/Certificates/Details/148685/97cc45b5" title="Certificate">✅ Programming Fundamentals with Java</a>
+<a href="https://softuni.bg/Certificates/Details/148685/97cc45b5" title="Certificate">☑️ Programming Fundamentals with Java</a>
 
 <a href="https://softuni.bg/Certificates/Details/161773/4cc45187" title="Certificate">✅ Java Advanced</a>
 
