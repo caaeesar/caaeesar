@@ -12,9 +12,9 @@
 
 <a href="https://softuni.bg/Certificates/Details/148685/97cc45b5" title="Certificate">☑️ Programming Fundamentals with Java</a>
 
-<a href="https://softuni.bg/Certificates/Details/161773/4cc45187" title="Certificate">✅ Java Advanced</a>
+<a href="https://softuni.bg/Certificates/Details/161773/4cc45187" title="Certificate">☑️ Java Advanced</a>
 
-<a href="https://softuni.bg/Certificates/Details/168918/cd8aa8a4" title="Certificate">✅ Java OOP</a>
+<a href="https://softuni.bg/Certificates/Details/168918/cd8aa8a4" title="Certificate">☑️ Java OOP</a>
 
-<a href="https://softuni.bg/certificates/details/172365/5465d745" title="Certificate">✅ MySQL </a>
+<a href="https://softuni.bg/certificates/details/172365/5465d745" title="Certificate">☑️ MySQL </a>
 
