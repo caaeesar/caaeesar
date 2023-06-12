@@ -8,6 +8,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=idea,java,mysql,regex&theme=light)](https://skills.thijs.gg)
 
 ### Certificates:
+<a href="https://softuni.bg/certificates/details/135127/8650a326">Programming Basics with Java</a>
 Programming Basics with Java -> <a href="https://softuni.bg/certificates/details/135127/8650a326"></a>
 
 <a href="https://softuni.bg/Certificates/Details/148685/97cc45b5">
