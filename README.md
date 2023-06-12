@@ -1,4 +1,4 @@
-### Hi, I'm Melissa 👉🏻
+### Hi, I'm Melissa 👋🏻
 
 ▪️ 📚 I’m currently learning Java.
 ▪️ 👉🏻 I’m looking for Java internship.
