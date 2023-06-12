@@ -1,7 +1,7 @@
 ### Hi, I'm Melissa 👋🏻
 
-• 📚 I’m currently learning Java.
-• 👉🏻 I’m looking for Java internship.
+• 📚 I’m currently learning Java
+• 👉🏻 I’m looking for Java internship
 • 📧 Reach me: melisarudeva@gmail.com
 
 ### Languages and Tools:
