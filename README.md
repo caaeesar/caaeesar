@@ -8,17 +8,13 @@
 [![My Skills](https://skills.thijs.gg/icons?i=idea,java,mysql,regex&theme=light)](https://skills.thijs.gg)
 
 ### Certificates:
-<a href="https://softuni.bg/certificates/details/135127/8650a326">Programming Basics with Java</a>
-Programming Basics with Java -> <a href="https://softuni.bg/certificates/details/135127/8650a326"></a>
+<a href="https://softuni.bg/certificates/details/135127/8650a326">* Programming Basics with Java</a>
 
-<a href="https://softuni.bg/Certificates/Details/148685/97cc45b5">
-<img width="300" src="https://user-images.githubusercontent.com/105941093/234044981-c204c118-0ea7-4dbf-9e2a-e2380cf97e49.png">
-</a>
+<a href="https://softuni.bg/Certificates/Details/148685/97cc45b5">* Programming Fundamentals with Java</a>
 
-<a href="https://softuni.bg/Certificates/Details/161773/4cc45187">
-<img width="300" src="https://user-images.githubusercontent.com/105941093/234046098-5bb71c68-f7be-48be-ac2f-bfe76d335863.png">
-</a>
+<a href="https://softuni.bg/Certificates/Details/161773/4cc45187">* Java Advanced</a>
 
-<a href="https://softuni.bg/Certificates/Details/168918/cd8aa8a4">
-<img width="300" src="https://user-images.githubusercontent.com/105941093/234047745-144e4b4f-f9a1-461f-9a9c-5536e8729349.png">
-</a>
+<a href="https://softuni.bg/Certificates/Details/168918/cd8aa8a4">* Java OOP</a>
+
+<a href="https://softuni.bg/certificates/details/172365/5465d745">* MySQL </a>
+
