@@ -17,3 +17,5 @@
 <a href="https://softuni.bg/Certificates/Details/168918/cd8aa8a4" title="Certificate">☑️ Java OOP</a>
 
 <a href="https://softuni.bg/certificates/details/172365/5465d745" title="Certificate">☑️ MySQL </a>
+
+<a href="https://softuni.bg/certificates/details/180614/2555bdcc" title="Certificate">☑️ Spring Data </a>
