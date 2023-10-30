@@ -19,3 +19,5 @@
 <a href="https://softuni.bg/certificates/details/172365/5465d745" title="Certificate">☑️ MySQL </a>
 
 <a href="https://softuni.bg/certificates/details/180614/2555bdcc" title="Certificate">☑️ Spring Data </a>
+
+<a href="https://softuni.bg/certificates/details/191653/f58492da" title="Certificate">☑️ Spring Funtamentals </a>
