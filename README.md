@@ -2,7 +2,6 @@
 
 • 📚 I’m currently learning Java
 • 👉🏻 I’m looking for Java internship
-• 📧 Reach me: melisarudeva@gmail.com
 
 ### Languages and Tools:
 [![My Skills](https://skills.thijs.gg/icons?i=idea,java,spring,hibernate,maven,gradle,mysql,regex,postman&theme=light)](https://skills.thijs.gg)
