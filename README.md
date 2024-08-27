@@ -22,3 +22,5 @@
 <a href="https://softuni.bg/certificates/details/191653/f58492da" title="Certificate">☑️ Spring Funtamentals </a>
 
 <a href="https://softuni.bg/certificates/details/197733/328b26e5" title="Certificate">☑️ Spring Advanced </a>
+
+<a href="https://softuni.bg/certificates/details/223992/024eccd2" title="Certificate">☑️ JS Front-End </a>
