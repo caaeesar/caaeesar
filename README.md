@@ -24,3 +24,5 @@
 <a href="https://softuni.bg/certificates/details/197733/328b26e5" title="Certificate">☑️ Spring Advanced </a>
 
 <a href="https://softuni.bg/certificates/details/223992/024eccd2" title="Certificate">☑️ JS Front-End </a>
+
+<a href="https://softuni.bg/certificates/details/229564/b04c7258" title="Certificate">☑️ Software Engineering and DevOps </a>
