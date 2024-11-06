@@ -3,9 +3,6 @@
 • 📚 I’m currently learning Java
 • 👉🏻 I’m looking for Java internship
 
-### Languages and Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=idea,java,spring,hibernate,maven,gradle,mysql,regex,postman&theme=light)](https://skills.thijs.gg)
-
 ### Certificates:
 <a href="https://softuni.bg/certificates/details/135127/8650a326" title="Certificate">☑️ Programming Basics with Java</a>
 
